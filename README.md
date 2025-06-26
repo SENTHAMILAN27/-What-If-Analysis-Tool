@@ -8,7 +8,7 @@ The tool empowers decision-makers to test assumptions, visualize outcomes, and m
 ---
 
 ## 💡 Real Business Insight Uncovered
-While analyzing the sales and profit data, I simulated how a **5% reduction in Pre & Post-Invoice Discounts** could turn a **net loss of over ₹500 Cr into profitability**.
+While analyzing the sales and profit data, I simulated how a **5% reduction in Pre & Post-Invoice Discounts** could turn a **net loss of over Half a Billion (~ 500 Million) into profitability**.
 
 ✅ A small tweak → Huge impact!
 
