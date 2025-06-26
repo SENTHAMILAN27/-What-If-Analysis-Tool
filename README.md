@@ -61,6 +61,6 @@ I'm a budding Data Analyst passionate about turning raw numbers into strategic i
 
 👉 **[Visit My Portfolio Website](https://codebasics.io/portfolio/SENTHAMILAN-A)**  
 
-👉 **[Connect with me on LinkedIn](https://www.linkedin.com/in/senthamilan7/)**
+👉 **[Connect with me on LinkedIn](https://www.linkedin.com/in/senthamilan27/)**
 
 
