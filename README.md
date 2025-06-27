@@ -14,9 +14,9 @@ While analyzing the sales and profit data, I simulated how a **5% reduction in P
 
 > 📸 Refer screenshots:
 > 
-> [Image 1](https://github.com/SENTHAMILAN27/-What-If-Analysis-Tool/blob/main/Images/Discount_Simulation_Impact.jpg.jpg)
+> [Image 1](https://github.com/SENTHAMILAN27/-What-If-Analysis-Tool/blob/main/Images/Discount_Simulation_Impact%20in%20Net%20profit.png)
 > 
->  [Image 2]( https://github.com/SENTHAMILAN27/-What-If-Analysis-Tool/blob/main/Images/Discount_Simulation_Impact%20in%20Net%20profit%20.jpg)
+>  [Image 2](https://github.com/SENTHAMILAN27/-What-If-Analysis-Tool/blob/main/Images/Discount_Simulation_Impact.jpg.png)
 >
 > [Or checkout PDF](https://github.com/SENTHAMILAN27/-What-If-Analysis-Tool/blob/main/PDF/What-IF%20Analysis.pdf)
 ---
